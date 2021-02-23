@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS Welcome! I'm learning more things about GitHub.
+Welcome! I'm learning more things about GitHub.
